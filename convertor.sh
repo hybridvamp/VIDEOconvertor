@@ -1,2 +1,2 @@
-echo "starting VideoConvertor ~@DroneBots";
+echo "starting VideoConvertor ~@Hybrid_Bots";
 python3 -m main

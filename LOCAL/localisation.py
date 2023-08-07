@@ -5,11 +5,11 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/Hybrid_Bots"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/hybrid_chat"
 
-info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.4"   
+info_text = "This bot is developed by @Hybrid_Bots\n\nWritten in python library TELETHON.\n\nBot by : @Hybrid_Bots\nSupport : @hybrid_chat\n\nV1.4"   
 
 help_text = """**v1.4**
 
@@ -29,14 +29,14 @@ help_text = """**v1.4**
 
 source_text = "**Deploy your own bot**"
 
-DEV = "https://t.me/MaheshChauhan"
+DEV = "https://t.me/Hybrid_Bots"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
-JPG = "LOCAL/video_convertor.jpg"
+JPG = "https://graph.org/file/ae13428129259ac537126.jpg"
 
-JPG0 = 'https://telegra.ph/file/d98c559b56ef884ef3bad.jpg'
+JPG0 = 'https://graph.org/file/ae13428129259ac537126.jpg'
 
-JPG2 = "LOCAL/20211215_165751.jpg"
+JPG2 = "https://graph.org/file/ae13428129259ac537126.jpg"
 
-JPG3 = "LOCAL/PicsArt_12-16-08.57.15.jpg"
+JPG3 = "https://graph.org/file/ae13428129259ac537126.jpg"
